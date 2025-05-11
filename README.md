@@ -1,5 +1,4 @@
 # wk8-DB-Assignment
-Clinic Booking System
 🏥 Project Title
 
 Clinic Booking System
@@ -18,3 +17,10 @@ Appointment booking
 
 Treatment tracking
 
+🛠️ How to Run / Setup the Project
+
+Requirements:
+
+MySQL Server installed (e.g., XAMPP, MAMP, or standalone MySQL)
+
+A MySQL client (e.g., MySQL Workbench, phpMyAdmin or terminal)
