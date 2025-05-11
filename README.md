@@ -24,3 +24,11 @@ Requirements:
 MySQL Server installed (e.g., XAMPP, MAMP, or standalone MySQL)
 
 A MySQL client (e.g., MySQL Workbench, phpMyAdmin or terminal)
+
+🔗 ERD (Entity Relationship Diagram)
+
+The relationships between the tables in this Clinic Booking System are as follows:
+
+atients (patient_id) ←── appointments (appointment_id) ──→ doctors (doctor_id)
+           ↑                                                   ↑
+           └─────────── treatments (treatment_id) ─────────────┘
